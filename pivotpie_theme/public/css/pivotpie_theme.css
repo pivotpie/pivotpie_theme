@@ -99,7 +99,7 @@ body {
 
 .widget.number-widget-box {
     padding: 10px 8px 10px 16px;
-    background-image: url(/files/screenshot202401095475a8.png) !important;
+    background-image: url(/files/gradient-celestial-768x384.jpg) !important;
     background-repeat: no-repeat !important;
     background-size:cover !important;
     -webkit-box-shadow: 10px 10px 24px -1px rgba(0,0,0,0.75) !important;
@@ -133,7 +133,7 @@ body {
 .widget.shortcut-widget-box {
     padding: 30px 20px !important;
     border: 0px !important;
-    background-image: url(/files/screenshot20240109a528a7.png) !important;
+    background-image: url(/files/gradient-purple-lake-768x384.jpg) !important;
     background-repeat: no-repeat !important;
     background-size:cover !important;
     -webkit-box-shadow: 10px 10px 24px -1px rgba(0,0,0,0.75) !important;
@@ -321,19 +321,19 @@ body {
 [data-page-route=Workspaces] .layout-main-section-wrapper {
     margin-top: -5px;
     padding-top: 5px;
-    background-image: url("https://t4.ftcdn.net/jpg/02/10/45/95/240_F_210459536_XmLDEcKq2DpeNLVmheuWeu9NM9aGKnih.jpg") !important;
+    background-image: url("https://images.unsplash.com/photo-1579547621706-1a9c79d5c9f1") !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
 
 [data-page-route=Workspaces] .layout-main .layout-side-section {
-    background-image: url(https://t4.ftcdn.net/jpg/02/10/45/95/240_F_210459536_XmLDEcKq2DpeNLVmheuWeu9NM9aGKnih.jpg) !important;
+    background-image: url(https://images.unsplash.com/photo-1579547621706-1a9c79d5c9f1) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
 
 [data-page-route=Workspaces] .layout-main {
-    background-image: url(https://t4.ftcdn.net/jpg/02/10/45/95/240_F_210459536_XmLDEcKq2DpeNLVmheuWeu9NM9aGKnih.jpg) !important;
+    background-image: url(https://images.unsplash.com/photo-1579547621706-1a9c79d5c9f1) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
